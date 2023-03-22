@@ -1,5 +1,4 @@
-PRINT("HELLO WORLD!")
-## Meu nome é Gustavo Laitano 😁⌨️
+## PRINT("HELLO WORLD!") Meu nome é Gustavo Laitano 😁⌨️
 Estudante de Ciência da Computação e apaixonado por programação!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gulaitano)
