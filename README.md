@@ -1,4 +1,4 @@
-# PRINT("HELLO WORLD!")
+PRINT("HELLO WORLD!")
 ## Meu nome é Gustavo Laitano 😁⌨️
 Estudante de Ciência da Computação e apaixonado por programação!
 
